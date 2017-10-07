@@ -1,0 +1,6 @@
+package: github.com/jerminehu/graphql-go-demo
+import:
+- package: github.com/graphql-go/graphql
+  version: ~0.7.3
+- package: github.com/graphql-go/handler
+  version: ~0.2.0
